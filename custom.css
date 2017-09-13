@@ -260,7 +260,7 @@ pre code {
   overflow: auto;
   padding: 6px 10px;
   border-radius: 3px; }
-
+/*代码块的样式*/
 pre {
   background-color: #f8f8f8;
   border: 1px solid #cccccc;
